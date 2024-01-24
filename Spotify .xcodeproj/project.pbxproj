@@ -253,6 +253,7 @@
 				28AF5DD32B0D58E00030EEA9 /* View */,
 				28AF5DD22B0D58D60030EEA9 /* Controllers */,
 				28AF5DCC2B0D58CB0030EEA9 /* Info.plist */,
+				2884F7552B617830007D7F67 /* Keys.plist */,
 			);
 			path = Spotify;
 			sourceTree = "<group>";
@@ -321,7 +322,6 @@
 				28AF5DC02B0D58C90030EEA9 /* SceneDelegate.swift */,
 				28AF5DC72B0D58CB0030EEA9 /* Assets.xcassets */,
 				28AF5E002B0E4B5A0030EEA9 /* Constants .swift */,
-				2884F7552B617830007D7F67 /* Keys.plist */,
 				28AF5E022B0EADAC0030EEA9 /* Extensions.swift */,
 			);
 			path = Support;
