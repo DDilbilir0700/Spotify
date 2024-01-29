@@ -13,6 +13,8 @@ Create an Info.plist file in the project and name it Keys.plist
 
 Add your Spotify Client ID and Client Secret inside Keys.plist
 
+Run the application.
+
 Or contact me at lenispath@gmail.com to obtain the necessary Spotify API credentials for running the application.
 
-Run the application.
+
