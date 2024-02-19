@@ -8,9 +8,6 @@ import UIKit
 import SDWebImage
 
 
-import UIKit
-import SDWebImage
-
 class NewReleasesCollectionViewCell: UICollectionViewCell {
 
     static let cellIdentifier = "NewReleasesCollectionViewCell"
