@@ -29,9 +29,9 @@ class TabBarVC: UITabBarController {
     }
 
     private func setupViewControllers() {
-        let firstVC = createViewController(HomeVC(), title: "Explore", image: "music.note.house")
-        let secondVC = createViewController(SearchVC(), title: "Search", image: "waveform.badge.magnifyingglass")
-        let thirdVC = createViewController(LibraryVC(), title: "Library", image: "music.note.list")
+        let firstVC = createViewController(HomeVC(), title: "", image: "music.note.house")
+        let secondVC = createViewController(SearchVC(), title: "", image: "waveform.badge.magnifyingglass")
+        let thirdVC = createViewController(LibraryVC(), title: "", image: "music.note.list")
 
         setViewControllers([firstVC, secondVC, thirdVC], animated: false)
     }
